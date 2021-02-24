@@ -47,3 +47,5 @@ def is_palindrome_number(x):
   print('True')
 
 is_palindrome_number(1234564321)
+
+#Note
