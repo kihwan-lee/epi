@@ -49,3 +49,4 @@ def is_palindrome_number(x):
 is_palindrome_number(1234564321)
 
 #Note
+#Note2
