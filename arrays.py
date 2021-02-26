@@ -33,3 +33,7 @@ def even_odd(A):
 even_odd(A)
 
 # Dutch National Flag Problem
+
+#Analysis
+
+#The key to understanding the problem is to analyze the array.
