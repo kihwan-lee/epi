@@ -63,3 +63,26 @@ print(my_list)
 # Understanding range and list functions
 range(10)
 list(range(10))
+
+
+
+# Sets
+my_set = {False, 3, 4.5, 6, 'cat'}
+your_set = {99,3,100}
+my_set.union(your_set)
+my_set | your_set
+my_set.intersection(your_set) 
+my_set & your_set 
+my_set.difference(your_set) 
+my_set - your_set
+{3,100}.issubset(your_set) 
+{3,100} <= your_set
+my_set.add("house")
+my_set
+my_set.remove(4.5)
+my_set
+my_set.pop()
+my_set
+my_set.clear()
+my_set
+set()
