@@ -101,3 +101,9 @@ print(f/5)
 business = .53 * 298000000
 private = .27 * 298000000
 print(business - private)
+
+prof_sales = .04 * 18000000000
+print(prof_sales)
+
+percent_increase = 105000000000 / 170000000000
+print(percent_increase * 100)
