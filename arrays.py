@@ -89,5 +89,15 @@ my_set
 
 # Input and Output 
 
-y = input('enter your name: ')
-print(y)
+print(59600000+113500000+109830000+100130000+115200000)
+a = .2 * 298000000
+b = .25 * 454000000
+c = .21 * 523000000
+d = .17 * 589000000
+e = .18 * 640000000
+f = a+b+c+d+e
+print(f/5)
+
+business = .53 * 298000000
+private = .27 * 298000000
+print(business - private)
