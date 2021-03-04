@@ -88,4 +88,6 @@ my_set
 
 
 # Input and Output 
-# Input and Output 
+
+y = input('enter your name: ')
+print(y)
